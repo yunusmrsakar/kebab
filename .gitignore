@@ -1,0 +1,9 @@
+database.sqlite
+database.sqlite-wal
+database.sqlite-shm
+uploads/sliders/*
+uploads/menu/*
+uploads/marketing/*
+uploads/logos/*
+!uploads/**/.gitkeep
+.DS_Store
